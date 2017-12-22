@@ -1,7 +1,6 @@
 /*
  * Adharsh Ranganathan
  * 5/22/17
- * CSE 414 - HW7
  * */
 import java.util.ArrayList;
 import java.util.List;
